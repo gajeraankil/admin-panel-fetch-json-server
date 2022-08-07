@@ -1,0 +1,90 @@
+{
+  "medicines": [
+    {
+      "id": "1659877036584",
+      "name": "Abacavir",
+      "quantity": "25",
+      "price": "150",
+      "expiry": 2022
+    },
+    {
+      "id": "1659877064675",
+      "name": "Eltrombopag",
+      "quantity": "90",
+      "price": "550",
+      "expiry": 2025
+    },
+    {
+      "id": "1659877090678",
+      "name": "Meloxicam",
+      "quantity": "85",
+      "price": "450",
+      "expiry": 2024
+    },
+    {
+      "id": "1659877110774",
+      "name": "Allopurinol",
+      "quantity": "50",
+      "price": "600",
+      "expiry": 2023
+    },
+    {
+      "id": "1659877146661",
+      "name": "Phenytoin",
+      "quantity": "63",
+      "price": "250",
+      "expiry": 2025
+    }
+  ],
+  "patients": [
+    {
+      "id": "1659876928217",
+      "name": "Amit",
+      "age": "18",
+      "phone": "7894561230",
+      "date": "2022-08-07T18:00",
+      "department": "Department 1",
+      "doctor": "Doctor 2",
+      "status": "New Patient",
+      "room": "FF-103"
+    },
+    {
+      "id": "1659876986112",
+      "name": "Ajay",
+      "age": "40",
+      "phone": "1234567890",
+      "date": "2022-08-01T10:00",
+      "department": "Department 3",
+      "doctor": "Doctor 1",
+      "status": "In Treatment",
+      "room": "FF-124"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "1659876837196",
+      "name": "Amit",
+      "departments": "Cardiology"
+    },
+    {
+      "id": "1659876844360",
+      "name": "Ajay",
+      "departments": "Neurology"
+    },
+    {
+      "id": "1659876851272",
+      "name": "ABC",
+      "departments": "Hepatology"
+    },
+    {
+      "id": "1659876861668",
+      "name": "MNO",
+      "departments": "Pediatrics"
+    },
+    {
+      "id": "1659876871295",
+      "name": "XYZ",
+      "departments": "Eye-Care"
+    }
+  ]
+}
